@@ -1,0 +1,2 @@
+GET localhost:80/APIBooks/books/list/
+accept: application/xml

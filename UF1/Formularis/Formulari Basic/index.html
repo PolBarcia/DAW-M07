@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Formulari Bàsic</title>
+</head>
+<body>
+<div class="title">
+    <h3>Loggin into School System</h3>
+</div>
+<form action="login_basic.php" method="POST">
+    <label for="user">Usuari:</label><br>
+    <input name="usuari" id="user" type="text"/><br/>
+    <label for="contra">Contrasenya:</label><br>
+    <input name="clau" id="contra" type="password"/><br/>
+    <label>
+        <input type="radio" name="tipus" value="Alumne"> Alumne
+        <input type="radio" name="tipus" value="Professor"> Professor
+    </label>
+    <input type="submit" value="submit"/><br/>
+</form>
+</body>
+</html>

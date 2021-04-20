@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73ca73f8-9684-43e6-8152-f24a2896878a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="jaumebalmesphp.byethost11.com" id="f44ac704-2b88-411e-8524-0634b88eb03e" name="byetHost" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1kC7Wt26cTNoCF77t7cnCzOMJcs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="PHP Web Page.ByetHost">
+    <configuration name="Cookies.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Cookies.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="ByetHost" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="byetHost" start_url="/Cookies">
+      <method v="2">
+        <option name="FtpUpload" enabled="true">
+          <server_id>6c83a657-af7f-4d3b-8caa-33bee437e7e9</server_id>
+          <server_name>ByetHost</server_name>
+          <group_name />
+          <path>C:\Pol\DAW M07\Cookies</path>
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="byetHost">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.Cookies.php" />
+      <item itemvalue="PHP Web Page.ByetHost" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.Cookies.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73ca73f8-9684-43e6-8152-f24a2896878a" name="Default Changelist" comment="" />
+      <created>1605192755164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605192755164</updated>
+      <workItem from="1605192756256" duration="1207000" />
+      <workItem from="1606239598993" duration="3208000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Deployment" timestamp="1606242778566">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Deployment/0.0.1280.680@0.0.1280.680" timestamp="1606242778566" />
+    <state x="349" y="0" key="#PHP" timestamp="1605193363956">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="0" key="#PHP/0.0.1280.680@0.0.1280.680" timestamp="1605193363956" />
+    <state x="221" y="0" key="#Servers" timestamp="1606241209420">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="0" key="#Servers/0.0.1280.680@0.0.1280.680" timestamp="1606241209420" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606242822182">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1606242822182" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1606242374749">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1606242374749" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1605207908006">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605207908006" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1605207908006">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605207908006" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1605207908006">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605207908006" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1605207908006">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605207908006" />
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1605192768954">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1605192768954" />
+    <state x="471" y="210" width="411" height="259" key="com.jetbrains.plugins.webDeployment.ui.UploadBeforeRunTaskDialog" timestamp="1606242780057">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="471" y="210" width="411" height="259" key="com.jetbrains.plugins.webDeployment.ui.UploadBeforeRunTaskDialog/0.0.1280.680@0.0.1280.680" timestamp="1606242780057" />
+    <state x="526" y="70" key="ftp.server.browser" timestamp="1606242339061">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="526" y="70" key="ftp.server.browser/0.0.1280.680@0.0.1280.680" timestamp="1606242339061" />
+  </component>
+</project>

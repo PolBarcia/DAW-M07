@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Any de Traspas.</title>
+</head>
+<body>
+    <h3>
+        <?php
+            echo '<h3> Pol </h3>
+
+    </h3>
+    <?php
+        print ("Quin any vols calcular?");
+        $any= 2020;//demanar l'any a l'usuari
+        if (!($any % 4) && ($any % 100 || !($any % 400))){
+            return ("És un any de traspas");
+            }
+    ?>
+</body>
+</html>
